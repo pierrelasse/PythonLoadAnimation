@@ -9,7 +9,7 @@ So i wanted to make an easy to use function (class) that you can use
 to create an animation like this.
 
 # How to use
-Just download the loadanim.py file and put it in your project folder.<br>
+Just download the loadanim.py file and put it in your project folder.<br />
 Then you can import it using `from <filename> import loadanim`.
 
 To create the animation just put the code below wherever you want.
