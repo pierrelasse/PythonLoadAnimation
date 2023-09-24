@@ -1,5 +1,8 @@
 import sys
 import time as _time
+import os
+
+os.system("")
 
 class loadanim:
     
